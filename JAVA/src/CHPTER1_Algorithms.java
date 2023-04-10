@@ -28,6 +28,8 @@ public class CHPTER1_Algorithms<KeyType> {
     }
 
     public static void main(String[] args) {
+
+
         CHPTER1_Algorithms obj = new CHPTER1_Algorithms();
         obj.menu();
 
